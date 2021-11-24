@@ -27,4 +27,4 @@ What is version control?
 Version control is a system that records changes to a file(s), over time.
 
 How Git works:
-Git handles content in snapshots
+Git handles content in snapshots, Git handles content in snapshots, one for each commit, and knows how to apply or roll back the change sets between two snapshots. This is an important concept. Also, Understanding the concept of applying and rolling back change sets makes Git much easier to understand and work with.
