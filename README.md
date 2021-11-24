@@ -28,3 +28,7 @@ Version control is a system that records changes to a file(s), over time.
 
 How Git works:
 Git handles content in snapshots, one for each commit, and knows how to apply or roll back the change sets between two snapshots. This is an important concept. Also, Understanding the concept of applying and rolling back change sets makes Git much easier to understand and work with.
+
+What is difference between github main and master branch?
+There is no actual difference between main and master, it's just the name of the default branch. For you git push origin master just creates a new branch called master (since it doesn't exist already) and pushes your current commits there.
+Started of October 1, 2020 all "master branches" call "main branches."
