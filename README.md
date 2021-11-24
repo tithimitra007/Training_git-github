@@ -25,3 +25,6 @@ Merge: Once your pull request is approved, merge your pull request. This will au
 
 What is version control?
 Version control is a system that records changes to a file(s), over time.
+
+How Git works:
+Git handles content in snapshots
