@@ -1,2 +1,2 @@
-# QA
-Train git 
+# training
+Git and Github training
