@@ -1,2 +1,2 @@
 # QA
-Train git and QA
+Train git 
