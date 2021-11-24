@@ -1,4 +1,4 @@
-# training
+# Training
 Git and Github:
 
 Git is a version control software. Git installed and maintained in local system. It is an open ource distributed version control system that lets you manage and keep track of your source code history.
