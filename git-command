@@ -1,0 +1,11 @@
+Commands
+init
+Create an empty Git repository. The Git repository’s settings, stored information, and more is stored in a directory (a folder) named “.git”.
+
+$ git init
+config
+To configure settings. Whether it be for the repository, the system itself, or global configurations ( global config file is ~/.gitconfig ).
+
+# Print & Set Some Basic Config Variables (Global)
+$ git config --global user.email "MyEmail@Zoho.com"
+$ git config --global user.name "My Name"
