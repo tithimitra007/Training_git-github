@@ -32,3 +32,5 @@ Git handles content in snapshots, one for each commit, and knows how to apply or
 What is difference between github main and master branch?
 There is no actual difference between main and master, it's just the name of the default branch. For you git push origin master just creates a new branch called master (since it doesn't exist already) and pushes your current commits there.
 Started of October 1, 2020 all "master branches" call "main branches."
+
+git
